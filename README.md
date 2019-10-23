@@ -20,13 +20,13 @@
     
     ```yarn add```
     
-    Make sure to you have the gatsby CLI globally installed. You can install it with the below command:
+    Make sure you have the gatsby CLI globally installed. You can install it with the below command:
     
     ```npm install -g gatsby-cli```
 
 2.  **Start developing.**
 
-    Start the application by running the below command
+    Start the application by running the below command:
 
     ```gatsby develop```
 
@@ -49,7 +49,7 @@ Note: Gatsby comes preconfigured with hot reload. As long as you are running gat
 
 2.  **Build your changes.**
 
-    When you have completed your changes run the command below
+    When you have completed your changes run the command below:
 
     ```gatsby build```
     
@@ -61,4 +61,4 @@ Note: Gatsby comes preconfigured with hot reload. As long as you are running gat
     
    Commit your changes to your fork and then raise a pull request(pr) to the relavent branch of the main repository. 
    Be sure to reference the issue you are resolving in your message. 
-    
+  
